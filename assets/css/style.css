@@ -6,3 +6,8 @@ body {
 .navbar-nav {
     font-weight: 600;
 }
+
+.btn-dark {
+    color: white;
+    background-color: black;
+}
